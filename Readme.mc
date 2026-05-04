@@ -12,3 +12,8 @@ Sources used:
 https://github.com/ThePrintasaurus/SV08-Eddy-NG
 https://github.com/Rappetor/Sovol-SV08-Mainline
 https://github.com/klipper3d/klipper
+
+-----------------------------------------------------
+
+Continue on the wiki
+https://github.com/el-quique/SV08-Eddy-Tap/wiki
