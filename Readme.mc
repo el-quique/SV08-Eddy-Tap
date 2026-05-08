@@ -15,5 +15,5 @@ https://github.com/klipper3d/klipper
 
 -----------------------------------------------------
 
-Continue on the wiki
-https://github.com/el-quique/SV08-Eddy-Tap/wiki
+Continue on the Guide
+https://github.com/el-quique/SV08-Eddy-Tap/blob/main/Guide
