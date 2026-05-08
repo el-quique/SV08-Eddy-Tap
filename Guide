@@ -28,7 +28,7 @@ cd ~/katapult && make menuconfig KCONFIG_CONFIG=eddy
 
 Configure the Katapult firmware as shown in the screenshot (Eddy_Katapult_Menuconfig.jpg) . Press [Q] to quit and save changes.
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/el-quique/SV08-Eddy-Tap/raw/main/img/Eddy_Katapult_Menuconfig.jpg"><img src="/el-quique/SV08-Eddy-Tap/raw/main/img/Eddy_Katapult_Menuconfig.jpg" alt="Katapult makemenu config settings" style="max-width: 100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/el-quique/SV08-Eddy-Tap/raw/main/img/Eddy_Katapult_Menuconfig.jpg"><img src="https://github.com/el-quique/SV08-Eddy-Tap/raw/main/img/Eddy_Katapult_Menuconfig.jpg" alt="Katapult makemenu config settings" style="max-width: 100%;"></a>
 
 9. We shall now build and flash the Katapult firmware to our BTT Eddy. Remember that address (in 7) ? We need it here.
 
